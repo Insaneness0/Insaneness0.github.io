@@ -1,6 +1,6 @@
 ---
 layout: post
-title: adsasd
+title: Insaneness
 date: 2022-03-11 090000 +0900
 ---
 
@@ -13,4 +13,4 @@ date: 2022-03-11 090000 +0900
 * "git log"
 * "git branch"
 * "git checkout"
-* "git reset"
+* "git reset" 
