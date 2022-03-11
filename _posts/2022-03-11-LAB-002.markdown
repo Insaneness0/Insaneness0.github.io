@@ -1,0 +1,16 @@
+---
+layout: post
+title: adsasd
+date: 2022-03-11 090000 +0900
+---
+
+# Second Time
+* "git pull" : github 다운로드
+* "git add"
+* "git commit -m"
+* "git push" :  git hub 업로드
+* "git status"
+* "git log"
+* "git branch"
+* "git checkout"
+* "git reset"
